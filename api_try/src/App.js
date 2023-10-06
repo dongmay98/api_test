@@ -1,7 +1,11 @@
+import JoinPage from "./JoinPage";
+import LoginPage from './LoginPage'
+
 function App() {
   return (
     <div>
-      hello world
+      {/* <LoginPage/> */}
+      <JoinPage/>
     </div>
   );
 }
